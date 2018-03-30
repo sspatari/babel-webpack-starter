@@ -10,7 +10,7 @@
     "start": "webpack-dev-server --output-public-path=/build/ --mode production"
   },
   "author": "Spatari Stanislav",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.4",
